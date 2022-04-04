@@ -1,0 +1,5 @@
+{
+  "default":{
+    "spdlog": {"baseline": "1.9.2", "port-version": 0}
+  }
+}
