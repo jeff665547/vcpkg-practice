@@ -5,7 +5,10 @@
   "homepage": "https://github.com/gabime/spdlog",
   "license": "MIT",
   "dependencies": [
-    "fmt",
+    {
+      "name": "fmt",
+      "version>=": "8.1.1"
+    },
     {
       "name": "vcpkg-cmake",
       "host": true
